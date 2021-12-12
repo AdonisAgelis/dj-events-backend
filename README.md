@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+This the the backend code for the DJ Events web application. It is built with the Strapi headless CMS.
